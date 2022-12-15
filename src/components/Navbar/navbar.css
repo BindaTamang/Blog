@@ -1,0 +1,19 @@
+div {
+  border-radius: 4px;
+  background: #808080;
+  padding: 10px 22px;
+  color: #000000;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+  /* Second Nav */
+  margin-right: 24px;
+  text-align: justify;
+}
+link:hover {
+    transition: all 0.2s ease-in-out;
+    background: #fff;
+    color: #808080;
+  }

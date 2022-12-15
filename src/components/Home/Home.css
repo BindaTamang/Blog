@@ -1,0 +1,38 @@
+body {
+  background-color: #e9f8f1;
+}
+.home_header {
+  text-align: left;
+  margin-left: 60px;
+}
+.home_header h3{
+  color: rgb(165, 132, 89);
+  font-size: 3rem;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+.home_header h3 h1{
+  font-size: 3rem;
+}
+.home_header h3 p{
+  font-size: 2rem;
+  font-weight: 50px;
+  text-align: center;
+}
+.home_header h1 span{
+  color: rgb(147, 105, 170);
+}
+.home_header p{
+  color: rgb(172, 100, 154);
+  font-weight: 500;
+}
+.blog-wrapper {
+  font-size: 3rem;
+  display:flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+  padding: 3px 20px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
